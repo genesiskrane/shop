@@ -1,0 +1,25 @@
+{
+	"name": "shop",
+	"version": "1.0.0",
+	"description": "An Online Website For Products",
+	"keywords": [
+		"Online",
+		"Store"
+	],
+	"homepage": "https://github.com/genesiskrane/shop#readme",
+	"bugs": {
+		"url": "https://github.com/genesiskrane/shop/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/genesiskrane/shop.git"
+	},
+	"license": "ISC",
+	"author": "Genesis Krane",
+	"type": "commonjs",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"dev": "nodemon index.js"
+	}
+}
